@@ -4,9 +4,9 @@
 
 Este trabalho é fictício, inclusive a empresa citada.
 
-### A empresa Perfect Dream foi fundada em 2010 e desde lá tem ajudado milhares de pessoas a melhorarem sua qualidade de sono de uma forma saudável e natural. Além de produzir compostos naturais para a melhoria na qualidade do sono, ela criou, também, a cultura de que dormir o suficiente e com qualidade é um dos pilares mais importantes para aumento da produtividade. 
+##### A empresa Perfect Dream foi fundada em 2010 e desde lá tem ajudado milhares de pessoas a melhorarem sua qualidade de sono de uma forma saudável e natural. Além de produzir compostos naturais para a melhoria na qualidade do sono, ela criou, também, a cultura de que dormir o suficiente e com qualidade é um dos pilares mais importantes para aumento da produtividade. 
 
-### A Perfect Dream criou um novo produto chamado Perfect Night, todavia as vendas não estão indo tão bem assim. A empresa possui uma base dados em CSV com informações de alguns dos seus clientes e precisa que seja traçado uma estratégia de marketing, levando em conta as características e estilo de vida dos seus clientes.
+##### A Perfect Dream criou um novo produto chamado Perfect Night, todavia as vendas não estão indo tão bem assim. A empresa possui uma base dados em CSV com informações de alguns dos seus clientes e precisa que seja traçado uma estratégia de marketing, levando em conta as características e estilo de vida dos seus clientes.
 
 Como cientista de dados irei buscar padrões entre os clientes para que a campanha de marketing seja mais bem sucedida possível. 
 
